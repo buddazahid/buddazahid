@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm MOHAMMED ZAHID</h1>
 <h3 align="center">A passionate SOFTWARE ENGINEER from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buddazahid&label=Profile%20views&color=0e75b6&style=flat" alt="buddazahid" /> </p>
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=buddazahid&label=Profile%20views&color=0e75b6&style=flat" alt="buddazahid" /> 
+</p>
 - 🔭 I’m currently working on **Local Service app**
 
 - 🌱 I’m currently learning **Python, Java**
