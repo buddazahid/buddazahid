@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm MOHAMMED ZAHID</h1>
+<h1 align="center">HI 👋,I'M  MOHAMMED ZAHID</h1>
 <h3 align="center">A PASSIONATE SOFTWARE ENGINEER FROM INDIA</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=buddazahid&label=Profile%20views&color=0e75b6&style=flat" alt="buddazahid" /> 
