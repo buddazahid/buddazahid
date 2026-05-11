@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,mongodb,vscode,windows,git,github,firebase,linux,notion" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,mongodb,vscode,windows,git,github,firebase,linux,notion,androidstudio,flutter,dart," />
