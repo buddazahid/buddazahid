@@ -30,7 +30,15 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-zahid-budda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-zahid-budda" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/576247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="576247" height="30" width="40" /></a>
+<a href="https://medium.com/@buddazahid" target="_blank">
+  <img 
+    align="center" 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" 
+    alt="buddazahid-medium" 
+    height="30" 
+    width="40" 
+  />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
